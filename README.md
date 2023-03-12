@@ -1,1 +1,2 @@
-# QuantumBlog
+### **QuantumBlog**
+Here I will be putting all the code related to blog that I will be writing on medium. So, keep connected..........
